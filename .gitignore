@@ -1,0 +1,61 @@
+# Cartelle di sistema di Windows
+Thumbs.db
+Desktop.ini
+
+# File temporanei di sistema
+*.log
+*.tmp
+*.temp
+
+# File di backup
+*.bak
+*.old
+*.orig
+
+# File di compilazione e build
+*.class
+*.o
+*.out
+*.so
+*.dll
+*.exe
+*.obj
+*.pyc
+*.pyo
+
+# Cartella per build e distribuzione
+build/
+dist/
+
+# Cartelle degli ambienti virtuali (Python)
+venv/
+env/
+
+# File di configurazione IDE
+.vscode/
+.idea/
+
+# Cartella node_modules (per progetti Node.js)
+node_modules/
+
+# File di configurazione npm e lock file
+package-lock.json
+npm-debug.log
+
+# File di configurazione di JetBrains IDE (come PyCharm, IntelliJ)
+*.iml
+.idea/
+
+# File di configurazione editor
+*.suo
+*.user
+*.sln
+*.psess
+
+# Cartelle o file per macOS
+.DS_Store
+
+# Altri file di cache
+.cache/
+*.swp
+*.swo
